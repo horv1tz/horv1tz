@@ -4,4 +4,4 @@
 [![Telegram](https://img.shields.io/badge/telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/horvitz)
 [![Vk](https://img.shields.io/badge/vk-%234680C2.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/horvitz/)
 ### Other
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
