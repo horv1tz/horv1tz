@@ -5,4 +5,4 @@
 [![Vk](https://img.shields.io/badge/vk-%234680C2.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/horvitz/)
 ### Other
 ![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=horv1tz&count_private=false&show_icons=true&bg_color=22272E&text_color=9F9F9F)
-[![trophy](https://github-profile-trophy.vercel.app/?username=horv1tz&theme=monokai)]
+![trophy](https://github-profile-trophy.vercel.app/?username=horv1tz&theme=monokai)
