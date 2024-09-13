@@ -6,8 +6,6 @@ I'm **Leonid**, a passionate **DevOps Engineer** and **Programmer** from the pic
 
 Fluent in **Russian** 🇷🇺 and proficient in **English** 🇬🇧, I'm always eager to explore new technologies and solve complex challenges 🚀. **Automation** isn't just a hobby for me but an essential part of my professional life ⚙️.
 
-I'm open to relocation to **Moscow** 🏙️ or **Saint Petersburg** 🏰 and ready for business trips ✈️. I'm flexible regarding work arrangements, including **full-time**, **part-time**, **project-based work**, and **internships**.
-
 ---
 
 ## 🛠️ Skills
